@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/hs_app-V3/static/css/main.a3864d3c.css",
+    "main.js": "/hs_app-V3/static/js/main.501d972d.js",
+    "static/media/cover.jpg": "/hs_app-V3/static/media/cover.701389e017a5a5102c0b.jpg",
+    "index.html": "/hs_app-V3/index.html",
+    "main.a3864d3c.css.map": "/hs_app-V3/static/css/main.a3864d3c.css.map",
+    "main.501d972d.js.map": "/hs_app-V3/static/js/main.501d972d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3864d3c.css",
+    "static/js/main.501d972d.js"
+  ]
+}
